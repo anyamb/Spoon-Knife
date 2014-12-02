@@ -2,7 +2,7 @@
 ## This is a level 2 
 ### Well hello there!
 This is a sample forked project for CSI 326 
-This is a documanetation about [Google]
+This is a documanetation about [markdown]
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
@@ -12,4 +12,4 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-[Google] https://www.google.com/
+[markdown] https://www.google.com/
