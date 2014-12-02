@@ -1,4 +1,7 @@
+# This is a heading leavel 1
+## This is a level 2 
 ### Well hello there!
+This is a sample forked project for CSI 326 
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
